@@ -1,0 +1,5 @@
+A simple front-end web snake game realization.
+Run app.js in a local server from a browser.
+The snake game provides local storage of maximum score.
+Enjoy snaking!
+Author: Logan Sun. ysun01@uw.edu

@@ -1,3 +1,5 @@
+ // Copyright: Logan Sun, ysun01@uw.edu
+ // 2023.8.16
  const canvas = document.getElementById("myCanvas");
  const score = document.getElementById("myScore");
  const maxScore = document.getElementById("myScore2");
